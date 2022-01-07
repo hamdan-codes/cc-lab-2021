@@ -9,3 +9,18 @@ Cloud Computing Lab Assignments by Suneeta Ma'am
 # Questions:
 ## Lab 1:
 ### Scheduling Algorithm(RR,SJF(preemptive&nonpreemptive,FCFS)
+
+
+
+
+
+
+
+
+
+
+
+# 
+# 
+# Thank you
+# Author: Chaudhary Hamdan
